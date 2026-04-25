@@ -1,0 +1,12 @@
+{
+  "symbol_set": [
+    {
+      "symbol": "POSITIONS",
+      "description": "KirpiDijital Acik Pozisyonlar"
+    },
+    {
+      "symbol": "PNL",
+      "description": "KirpiDijital Kumulatif KarZarar"
+    }
+  ]
+}
