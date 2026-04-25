@@ -1,0 +1,2 @@
+# kirpi-seed
+Borsa
